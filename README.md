@@ -1,3 +1,9 @@
+[GitHub Pages](https://oksanabannova.github.io/events-goblin/)
+
+[![Build status](https://ci.appveyor.com/api/projects/status/i3f7ev8d237xdt4h?svg=true)](https://ci.appveyor.com/project/OksanaBannova/events-goblin)
+
+
+
 # Домашнее задание к занятию "3.Обработка событий"
 
 Правила сдачи задания:
